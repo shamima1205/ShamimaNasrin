@@ -59,14 +59,3 @@ Links are curated in [`/publications`](publications/).
 - **Phone:** +8801766930035 (personal), +8801624441666 (res)  
 - **Location:** Dhaka, Bangladesh
 
-> Want to view the original CV? See [`/resume`](resume/).
-
----
-
-### How to use this repository
-- Publish as your **GitHub Profile README**: copy this `README.md` into a repo named **`<your-username>/<your-username>`**.  
-- Or keep this as a **portfolio repo** and pin it on your profile.  
-- Update project sections with links to code or demos as you make them public.
-
-### License
-MIT — see [`LICENSE`](LICENSE).
