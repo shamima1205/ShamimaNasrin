@@ -1,7 +1,5 @@
 # Shamima Nasrin — Senior Software Engineer
 
-> Portfolio repository generated from CV on 2025-08-25.
-
 I’m a software engineer focused on **mobile apps (Android OS, iOS)** and **Galaxy wearables (Wear OS, Tizen OS)**.
 
 ## Highlights
