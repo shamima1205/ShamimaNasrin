@@ -43,9 +43,8 @@ I’m a software engineer focused on **mobile and wearable application developme
 - National Mobile Apps Trainer & Apps Development — 3rd prize
 
 ## Education
-- **Professional M.Sc. in Computer Science**, Jahangirnagar University — CGPA 3.64/4.00  
-- **B.Sc. in CSE**, Premier University, Chattogram — CGPA 3.73/4.00  (1st)
-
+- **Professional M.Sc. in Computer Science**, Jahangirnagar University
+- **B.Sc. in CSE**, Premier University, Chattogram 
 ## Contact
 - **Email:** sshanta1205@gmail.com  
 - **Phone:** +8801766930035 (personal), +8801624441666 (res)  
